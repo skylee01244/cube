@@ -1,2 +1,4 @@
 # cube
-Spinning cute in c++
+
+
+A simple spinning cube in c++
